@@ -4,7 +4,8 @@
 
 
 <p align="left"> <a href="https://twitter.com/uhiranwar43859" target="blank"><img src="https://img.shields.io/twitter/follow/uhiranwar43859?logo=twitter&style=for-the-badge" alt="uhiranwar43859" /></a> </p>
-<p align="right> ![](https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif)</p>
+
+![](https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif)
 
 - 🔭 I’m currently working on **E-commerce website**
 
