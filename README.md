@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ujwal Hiranwar</h1>
 <h3 align="center">A passionate Web Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ujjwal-hiranwar" alt="ujjwal-hiranwar" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/uhiranwar43859" target="blank"><img src="https://img.shields.io/twitter/follow/uhiranwar43859?logo=twitter&style=for-the-badge" alt="uhiranwar43859" /></a> </p>
+<p align="right> ![](https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif)</p>
 
 - 🔭 I’m currently working on **E-commerce website**
 
