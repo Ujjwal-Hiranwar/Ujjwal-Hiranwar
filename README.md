@@ -39,5 +39,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjwal-hiranwar&show_icons=true&locale=en&layout=compact" alt="ujjwal-hiranwar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ujjwal-hiranwar&show_icons=true&locale=en" alt="ujjwal-hiranwar" /></p>
+
 
