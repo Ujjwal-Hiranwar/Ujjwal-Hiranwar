@@ -29,7 +29,7 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
- <a href="#" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" alt="aws" width="40" height="40"/> </a>
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/H/helm-logo-9208DB3EE5-seeklogo.com.png" alt="aws" width="40" height="40"/> </a>
    <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=iGCCE2iEmh2u&format=png&color=000000" alt="aws" width="40" height="40"/> </a>
  
